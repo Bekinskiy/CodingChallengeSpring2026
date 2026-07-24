@@ -1,5 +1,5 @@
 public class Argentina {
     public static void main(String[] args) {
-        System.out.println("Spain is champions");
+        System.out.println("Hello Argentina");
     }
 }
